@@ -1,0 +1,3 @@
+streamlit
+pandas
+pxr-usd-core        # USD Python-bindings (conda-forge: usd-core usd-python)
